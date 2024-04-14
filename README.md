@@ -2,8 +2,8 @@
 
 Steps to Open the Source Code in your Machines:-
 
-1. First Select your Branch from Top Left of the Github Screen
-            Click on your Branch i.e Dev-"your_name"
+1. First Select your Branch from Top Left of the Github Screen,
+     Click on your Branch i.e Dev-"your_name"
     ![image](https://github.com/Saurabh1162/GoDoWn/assets/166944151/289fd8f6-9fc1-4ac8-882b-4611cf15b3bc)
 3. Once your branch is open , Click on the Code button which may be in green ![image](https://github.com/Saurabh1162/GoDoWn/assets/166944151/65d56804-ae46-4054-9f56-3f3d061f3405)
 
